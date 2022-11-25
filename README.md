@@ -1,0 +1,2 @@
+# myRustLearn
+rust lang study
